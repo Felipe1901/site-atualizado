@@ -1,0 +1,116 @@
+.Texto{
+    background-color: #d8210b;
+}
+
+.lista{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+
+}
+
+.pizzaprincipal{
+    background-image: url(pizzadentro.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 1300x;
+    
+}
+
+.titulo{
+    color: #f7d247;
+    background-color: #d8210b;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 px;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+
+}
+
+.subtitulo{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.copy{
+    text-align: center;
+    font-size: 15px;
+    background-color:rgba(253, 37, 37, 0.925);
+    color: white;
+
+}
+
+.pizzalogo{
+    background-image: url(pizzalogo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    height: 60px;
+}
+
+section{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #ff991de7;
+    margin-left: 80px;
+    margin-right: 50px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.list{
+    list-style-type: none;
+}
+
+
+.boasvindas{
+    text-align: right;
+    color:#f7d247;
+    
+}
+
+.textopizza{
+    text-align: justify;
+    color: black;
+    background-color: white;
+
+}
+
+.pedidos{
+    text-align: center;
+    color: gold;
+    background-color: darkslategrey;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.pizzape{
+    text-align: center;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.botao{
+    text-align: center;
+    background-color: #ff991de7;
+}
